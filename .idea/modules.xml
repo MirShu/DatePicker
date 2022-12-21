@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DatePicker.iml" filepath="$PROJECT_DIR$/.idea/modules/DatePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DatePicker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DatePicker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DatePicker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DatePicker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DatePicker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DatePicker.unitTest.iml" />
+    </modules>
+  </component>
+</project>
